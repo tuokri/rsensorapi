@@ -1,3 +1,5 @@
-# sensorapi
+# rsensorapi
 
-## A REST API for communcating sensor data.
+## REST Sensor API
+
+### A REST API for communicating sensor data.
