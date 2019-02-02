@@ -105,3 +105,6 @@ venv.bak/
 
 # IntelliJ
 /.idea
+
+# SQLite3 dumps
+*.sqlite3
