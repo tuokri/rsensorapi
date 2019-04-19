@@ -1,1 +1,1 @@
-from app.db import db
+DEFAULTCFG = "defaultcfg.py"
